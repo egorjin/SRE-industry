@@ -1,6 +1,6 @@
 
 const launchQuery = require('../../builders/query/launch-query');
-const sort = require('../../builders/sort');
+const sort = require('../../builders/sort/v2-sort');
 const project = require('../../builders/project');
 const limit = require('../../builders/limit');
 
