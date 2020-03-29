@@ -7,11 +7,6 @@ const router = new Router({
   prefix: '/crew',
 });
 
-// Get all crew members
-router.get('/', async (ctx) => {
-
-});
-
 // Get one crew member
 router.get('/:id', async (ctx) => {
 
