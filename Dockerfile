@@ -15,4 +15,4 @@ LABEL maintainer="jakewmeyer@gmail.com"
 
 EXPOSE 5000
 
-CMD ["node", "server.js"]
+ENTRYPOINT ["./start.sh"]
