@@ -2,9 +2,9 @@
 
 **Method** : `PATCH`
 
-**URL** : `/company/:id`
+**URL** : `https://api.spacexdata.com/v4/company/:id`
 
-**URL Parameters** : `id=[string]` where `id` is the ID of the capsule
+**URL Parameters** : `id=[string]` where `id` is the ID of the company
 
 **Auth required** : `True`
 
