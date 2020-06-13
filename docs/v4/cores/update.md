@@ -1,6 +1,6 @@
 # Update a core
 
-**Method** : `PUT`
+**Method** : `PATCH`
 
 **URL** : `/cores/:id`
 
